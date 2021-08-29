@@ -1,5 +1,5 @@
 package com.company;
-//test git
+//test git2
 public class Main {
     public static void main(String[] args) {
         // Initialization
